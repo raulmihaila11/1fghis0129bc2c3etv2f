@@ -1,0 +1,664 @@
+#EXTM3U
+#EXTINF:0,Nextgen/722MHz/{PMT:115}
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/215754221?profile=pass
+#EXTINF:0,TVR 1
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/349759532?profile=pass
+#EXTINF:0,TVR 1 HD
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/719600419?profile=pass
+#EXTINF:0,TVR 2
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/1182032879?profile=pass
+#EXTINF:0,TVR 2 HD
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/421288560?profile=pass
+#EXTINF:0,TVR 3
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/928289320?profile=pass
+#EXTINF:0,TVR Craiova
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/882018747?profile=pass
+#EXTINF:0,TVR Iasi
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/1207696757?profile=pass
+#EXTINF:0,TVR Cluj
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/703437122?profile=pass
+#EXTINF:0,TVR Timisoara
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/166403405?profile=pass
+#EXTINF:0,TVR Tg. Mures
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/1532349018?profile=pass
+#EXTINF:0,TV 5
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/1597431402?profile=pass
+#EXTINF:0,PRO TV
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/1887990729?profile=pass
+#EXTINF:0,PRO TV HD
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/1732045605?profile=pass
+#EXTINF:0,Antena 1
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/790277187?profile=pass
+#EXTINF:0,Antena 1 HD
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/538085436?profile=pass
+#EXTINF:0,Kanal D
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/1332011068?profile=pass
+#EXTINF:0,Kanal D HD
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/1743358224?profile=pass
+#EXTINF:0,Prima TV
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/242881443?profile=pass
+#EXTINF:0,Prima TV HD
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/954040221?profile=pass
+#EXTINF:0,National TV
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/1593992108?profile=pass
+#EXTINF:0,National 24 Plus
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/1191704364?profile=pass
+#EXTINF:0,Antena Stars
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/682721940?profile=pass
+#EXTINF:0,Antena Stars HD
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/584380088?profile=pass
+#EXTINF:0,Happy Channel
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/1007025661?profile=pass
+#EXTINF:0,Happy Channel HD
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/805049691?profile=pass
+#EXTINF:0,Global News
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/440848709?profile=pass
+#EXTINF:0,Kanal D 2 HD
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/561724702?profile=pass
+#EXTINF:0,Moldova TV
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/1501365999?profile=pass
+#EXTINF:0,Kapital TV
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/560164684?profile=pass
+#EXTINF:0,Inedit TV HD
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/466582694?profile=pass
+#EXTINF:0,A7 TV
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/1567924088?profile=pass
+#EXTINF:0,Metropola TV
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/187935009?profile=pass
+#EXTINF:0,Tele Moldova Plus
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/462217236?profile=pass
+#EXTINF:0,Linkpress
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/2113983995?profile=pass
+#EXTINF:0,Etno
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/1633169897?profile=pass
+#EXTINF:0,Favorit
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/102877497?profile=pass
+#EXTINF:0,Travel MIX HD
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/943621428?profile=pass
+#EXTINF:0,Travel Mix 4K
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/2115156990?profile=pass
+#EXTINF:0,Agro TV
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/355710552?profile=pass
+#EXTINF:0,TVR Cultural HD
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/829389165?profile=pass
+#EXTINF:0,TVR Info HD
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/835848241?profile=pass
+#EXTINF:0,Realitatea Plus
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/43505995?profile=pass
+#EXTINF:0,Antena 3
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/1437807674?profile=pass
+#EXTINF:0,Antena 3 HD
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/1501884851?profile=pass
+#EXTINF:0,Canal 33
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/539022806?profile=pass
+#EXTINF:0,B 1
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/98623063?profile=pass
+#EXTINF:0,Digi 24
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/22687950?profile=pass
+#EXTINF:0,RomaniaTV
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/667636306?profile=pass
+#EXTINF:0,CNN
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/563702996?profile=pass
+#EXTINF:0,DW HD
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/1665690390?profile=pass
+#EXTINF:0,Euronews HD
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/1799537547?profile=pass
+#EXTINF:0,Nasul TV
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/1477958304?profile=pass
+#EXTINF:0,NCN
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/705332417?profile=pass
+#EXTINF:0,Aleph News
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/240197954?profile=pass
+#EXTINF:0,Orange Sport 1
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/1725339416?profile=pass
+#EXTINF:0,Orange Sport 1 HD
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/1217308212?profile=pass
+#EXTINF:0,Orange Sport 2
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/1831332935?profile=pass
+#EXTINF:0,Orange Sport 2 HD
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/1585195311?profile=pass
+#EXTINF:0,Orange Sport 3
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/128758214?profile=pass
+#EXTINF:0,Orange Sport 3 HD
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/332128259?profile=pass
+#EXTINF:0,Orange Sport 4
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/425421449?profile=pass
+#EXTINF:0,Orange Sport 4 HD
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/1987803118?profile=pass
+#EXTINF:0,Prima Sport 1
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/1361179390?profile=pass
+#EXTINF:0,Prima Sport 1 HD
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/731611479?profile=pass
+#EXTINF:0,Prima Sport 2
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/1158956081?profile=pass
+#EXTINF:0,Prima Sport 2 HD
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/665383818?profile=pass
+#EXTINF:0,Prima Sport 3
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/1960345313?profile=pass
+#EXTINF:0,Prima Sport 3 HD
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/1939411650?profile=pass
+#EXTINF:0,Prima Sport 4
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/1194350042?profile=pass
+#EXTINF:0,Prima Sport 4 HD
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/1480186058?profile=pass
+#EXTINF:0,PRO ARENA
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/319524984?profile=pass
+#EXTINF:0,PRO ARENA HD
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/222540634?profile=pass
+#EXTINF:0,ACASA
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/1311143066?profile=pass
+#EXTINF:0,ACASA HD
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/1325324216?profile=pass
+#EXTINF:0,Acasa Gold
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/942485598?profile=pass
+#EXTINF:0,HBO
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/575770891?profile=pass
+#EXTINF:0,HBO
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/1599159788?profile=pass
+#EXTINF:0,HBO HD
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/1817345744?profile=pass
+#EXTINF:0,HBO 2
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/1748787384?profile=pass
+#EXTINF:0,HBO 2 HD
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/482458622?profile=pass
+#EXTINF:0,HBO 3
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/1726779652?profile=pass
+#EXTINF:0,HBO 3 HD
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/471010649?profile=pass
+#EXTINF:0,Cinemax
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/2064067282?profile=pass
+#EXTINF:0,Cinemax HD
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/1728414091?profile=pass
+#EXTINF:0,Cinemax 2
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/532151311?profile=pass
+#EXTINF:0,Cinemax 2 HD
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/1811090235?profile=pass
+#EXTINF:0,AMC
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/714358665?profile=pass
+#EXTINF:0,FilmBox Premium
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/1730648142?profile=pass
+#EXTINF:0,TDC
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/2009151835?profile=pass
+#EXTINF:0,Diva
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/82731406?profile=pass
+#EXTINF:0,AXN
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/70228065?profile=pass
+#EXTINF:0,AXN HD
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/617012739?profile=pass
+#EXTINF:0,AXN Black
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/1930496704?profile=pass
+#EXTINF:0,AXN White
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/1912361706?profile=pass
+#EXTINF:0,AXN Spin
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/942896739?profile=pass
+#EXTINF:0,Comedy Central
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/1449221448?profile=pass
+#EXTINF:0,Film Cafe
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/2128184883?profile=pass
+#EXTINF:0,Warner TV
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/797225976?profile=pass
+#EXTINF:0,TV 1000
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/388736042?profile=pass
+#EXTINF:0,Epic Drama
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/945043271?profile=pass
+#EXTINF:0,Epic Drama HD
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/27417609?profile=pass
+#EXTINF:0,Pro Cinema
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/876952693?profile=pass
+#EXTINF:0,Cinemaraton HD
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/1175933642?profile=pass
+#EXTINF:0,Cinethronix
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/889148825?profile=pass
+#EXTINF:0,Bollywood TV
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/861225592?profile=pass
+#EXTINF:0,National Geographic
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/833247069?profile=pass
+#EXTINF:0,Nat Geo HD
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/1669910492?profile=pass
+#EXTINF:0,Nat Geo Wild
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/660589648?profile=pass
+#EXTINF:0,Nat Geo Wild HD
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/312930965?profile=pass
+#EXTINF:0,Nat Geo People
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/1598870844?profile=pass
+#EXTINF:0,DocuBox
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/762870505?profile=pass
+#EXTINF:0,DocuBox HD
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/949680302?profile=pass
+#EXTINF:0,Viasat History
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/632362553?profile=pass
+#EXTINF:0,Viasat History HD
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/1188375032?profile=pass
+#EXTINF:0,Viasat Explore
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/1708848631?profile=pass
+#EXTINF:0,Viasat Explore HD
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/1595590906?profile=pass
+#EXTINF:0,Viasat Nature
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/1962757026?profile=pass
+#EXTINF:0,Viasat Nature HD
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/863621565?profile=pass
+#EXTINF:0,Crime & Investigation
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/1464256808?profile=pass
+#EXTINF:0,History Channel
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/1288231015?profile=pass
+#EXTINF:0,History HD
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/1007917862?profile=pass
+#EXTINF:0,Arcadia TV HD
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/123123727?profile=pass
+#EXTINF:0,Medika TV
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/2013621969?profile=pass
+#EXTINF:0,IDA
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/1936350976?profile=pass
+#EXTINF:0,E! Entertainment
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/1748260500?profile=pass
+#EXTINF:0,E! Entertainment HD
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/1555062372?profile=pass
+#EXTINF:0,CBS Reality
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/736055302?profile=pass
+#EXTINF:0,TV Paprika
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/414152008?profile=pass
+#EXTINF:0,Exploris TV
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/45276734?profile=pass
+#EXTINF:0,Telestar
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/2010196093?profile=pass
+#EXTINF:0,24 Mix Teleshop HD
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/1374146184?profile=pass
+#EXTINF:0,Shop on TV HD
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/1291547071?profile=pass
+#EXTINF:0,Cartoon Network
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/336350681?profile=pass
+#EXTINF:0,Disney Channel
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/1768854421?profile=pass
+#EXTINF:0,Disney Junior
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/32852800?profile=pass
+#EXTINF:0,Boomerang
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/662551258?profile=pass
+#EXTINF:0,Minimax
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/1100130265?profile=pass
+#EXTINF:0,Nick Jr.
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/2008306642?profile=pass
+#EXTINF:0,Nickelodeon
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/1511579597?profile=pass
+#EXTINF:0,Nickelodeon HD
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/885528867?profile=pass
+#EXTINF:0,Nick Toons
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/1319337820?profile=pass
+#EXTINF:0,TeenNick
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/688801782?profile=pass
+#EXTINF:0,Jim Jam
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/539488448?profile=pass
+#EXTINF:0,Trinitas TV
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/1407481801?profile=pass
+#EXTINF:0,Credo TV
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/1755006170?profile=pass
+#EXTINF:0,Alfa & Omega HD
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/2101201001?profile=pass
+#EXTINF:0,Speranta TV
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/658604089?profile=pass
+#EXTINF:0,Info TV Romania HD
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/271810690?profile=pass
+#EXTINF:0,ZU TV
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/258122327?profile=pass
+#EXTINF:0,ZU TV HD
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/687729063?profile=pass
+#EXTINF:0,Mooz Dance HD
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/2145432469?profile=pass
+#EXTINF:0,Magic TV
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/924727158?profile=pass
+#EXTINF:0,Kiss TV
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/902014857?profile=pass
+#EXTINF:0,UTV
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/285684628?profile=pass
+#EXTINF:0,Music Channel
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/1065149292?profile=pass
+#EXTINF:0,Atomic TV
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/1540964271?profile=pass
+#EXTINF:0,Atomic Academy HD
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/1732137600?profile=pass
+#EXTINF:0,HIT Music
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/1242005877?profile=pass
+#EXTINF:0,MTV Romania
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/34760362?profile=pass
+#EXTINF:0,MTV Live HD
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/319509762?profile=pass
+#EXTINF:0,MTV 90s
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/1852808125?profile=pass
+#EXTINF:0,MTV 80s
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/719066045?profile=pass
+#EXTINF:0,Rock TV
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/261331471?profile=pass
+#EXTINF:0,Emi TV
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/563374396?profile=pass
+#EXTINF:0,Rapsodia TV
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/613640313?profile=pass
+#EXTINF:0,Party Mix HD
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/1170097884?profile=pass
+#EXTINF:0,Orizont TV
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/791942785?profile=pass
+#EXTINF:0,Traditional TV
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/1687207231?profile=pass
+#EXTINF:0,Taraf TV
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/10031582?profile=pass
+#EXTINF:0,Hustler
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/1094700021?profile=pass
+#EXTINF:0,Brazzers HD TV
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/1166270139?profile=pass
+#EXTINF:0,Private TV
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/1500008099?profile=pass
+#EXTINF:0,Babes TV
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/859320327?profile=pass
+#EXTINF:0,Playboy Europe
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/458294079?profile=pass
+#EXTINF:0,Duna TV HD
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/1934484279?profile=pass
+#EXTINF:0,Duna World HD
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/1707159166?profile=pass
+#EXTINF:0,M1
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/1246649732?profile=pass
+#EXTINF:0,M2
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/1945572344?profile=pass
+#EXTINF:0,TV 4
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/1515274822?profile=pass
+#EXTINF:0,Story 4
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/1316130018?profile=pass
+#EXTINF:0,RTL
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/719442798?profile=pass
+#EXTINF:0,RTL Gold
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/1303165580?profile=pass
+#EXTINF:0,RTL II
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/1937934083?profile=pass
+#EXTINF:0,RTL 3
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/2137123940?profile=pass
+#EXTINF:0,Super TV 2
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/1842443262?profile=pass
+#EXTINF:0,Cool TV
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/2015933616?profile=pass
+#EXTINF:0,Film +
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/860966674?profile=pass
+#EXTINF:0,Sorozat
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/813912058?profile=pass
+#EXTINF:0,Muzsika
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/1111440116?profile=pass
+#EXTINF:0,Hir TV
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/846838647?profile=pass
+#EXTINF:0,TV 2
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/1798865573?profile=pass
+#EXTINF:0,M4 Sport HD
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/1494105687?profile=pass
+#EXTINF:0,Erdely
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/1690050059?profile=pass
+#EXTINF:0,Cromtel TV HD
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/1315143051?profile=pass
+#EXTINF:0,Buhusi TV
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/210771960?profile=pass
+#EXTINF:0,TV Plus Suceava
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/1906572810?profile=pass
+#EXTINF:0,TELE M Iasi
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/1873369938?profile=pass
+#EXTINF:0,Intermedia TV
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/248554431?profile=pass
+#EXTINF:0,Bucovina TV
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/426498550?profile=pass
+#EXTINF:0,Tele Moldova Plus
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/461013854?profile=pass
+#EXTINF:0,MDI TV
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/73074707?profile=pass
+#EXTINF:0,Columna TV
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/412465102?profile=pass
+#EXTINF:0,TV Sud Est
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/1068684964?profile=pass
+#EXTINF:0,Antena 3 Pitesti
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/1453934969?profile=pass
+#EXTINF:0,Valea Prahovei TV
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/1295362504?profile=pass
+#EXTINF:0,TV City
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/2127615472?profile=pass
+#EXTINF:0,Ardeal TV
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/262824836?profile=pass
+#EXTINF:0,AS-TV
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/1323146684?profile=pass
+#EXTINF:0,Sud Vest TV
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/1866076917?profile=pass
+#EXTINF:0,Antena 3 Deva
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/335582076?profile=pass
+#EXTINF:0,Digital 3 TV
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/84115517?profile=pass
+#EXTINF:0,Sovidek TV HD
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/796378917?profile=pass
+#EXTINF:0,Alba Carolina TV
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/1356646862?profile=pass
+#EXTINF:0,Antena 3 Constanta
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/14551623?profile=pass
+#EXTINF:0,Antena 3 Slobozia
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/985794464?profile=pass
+#EXTINF:0,Litoral TV
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/467911236?profile=pass
+#EXTINF:0,Infinit TV HD
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/436862377?profile=pass
+#EXTINF:0,Actualitatea TV
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/1276680105?profile=pass
+#EXTINF:0,M BIT
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/1971082944?profile=pass
+#EXTINF:0,Nova TV
+#EXTVLCOPT:network-caching=1000
+http://94.53.216.18:9981/stream/channelid/1680473353?profile=pass

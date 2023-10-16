@@ -1,0 +1,193 @@
+#EXTM3U
+#EXTINF:20,01 ПЕРВЫЙ КАНАЛ
+#EXTVLCOPT:network-caching=1000
+http://91.234.255.18:8000/play/a003/index.m3u8
+#EXTINF:0,02 Россия 1
+#EXTVLCOPT:network-caching=1000
+http://91.234.255.18:8000/play/a00o/index.m3u8
+#EXTINF:0,03 МАТЧ!
+#EXTVLCOPT:network-caching=1000
+http://91.234.255.18:8000/play/a04b/index.m3u8
+#EXTINF:0,04 НТВ
+#EXTVLCOPT:network-caching=1000
+http://91.234.255.18:8000/play/a049/index.m3u8
+#EXTINF:0,05 ПЯТЫЙ КАНАЛ
+#EXTVLCOPT:network-caching=1000
+http://91.234.255.18:8000/play/a04f/index.m3u8
+#EXTINF:0,06 РОССИЯ-К
+#EXTVLCOPT:network-caching=1000
+http://91.234.255.18:8000/play/a007/index.m3u8
+#EXTINF:0,07 Россия 24
+#EXTVLCOPT:network-caching=1000
+http://91.234.255.18:8000/play/a00p/index.m3u8
+#EXTINF:0,08 КАРУСЕЛЬ
+#EXTVLCOPT:network-caching=1000
+http://91.234.255.18:8000/play/a008/index.m3u8
+#EXTINF:0,09 ОТР
+#EXTVLCOPT:network-caching=1000
+http://91.234.255.18:8000/play/a04o/index.m3u8
+#EXTINF:0,10 ТВ Центр
+#EXTVLCOPT:network-caching=1000
+http://91.234.255.18:8000/play/a00a/index.m3u8
+#EXTINF:0,11 РЕН ТВ
+#EXTVLCOPT:network-caching=1000
+http://91.234.255.18:8000/play/a00b/index.m3u8
+#EXTINF:0,12 Спас
+#EXTVLCOPT:network-caching=1000
+http://91.234.255.18:8000/play/a00c/index.m3u8
+#EXTINF:0,13 СТС
+#EXTVLCOPT:network-caching=1000
+http://91.234.255.18:8000/play/a00d/index.m3u8
+#EXTINF:0,14 Домашний
+#EXTVLCOPT:network-caching=1000
+http://91.234.255.18:8000/play/a00e/index.m3u8
+#EXTINF:0,15 ТВ3
+#EXTVLCOPT:network-caching=1000
+http://91.234.255.18:8000/play/a00f/index.m3u8
+#EXTINF:0,16 Пятница
+#EXTVLCOPT:network-caching=1000
+http://91.234.255.18:8000/play/a00g/index.m3u8
+#EXTINF:0,17 Звезда
+#EXTVLCOPT:network-caching=1000
+http://91.234.255.18:8000/play/a00h/index.m3u8
+#EXTINF:0,18 МИР
+#EXTVLCOPT:network-caching=1000
+http://91.234.255.18:8000/play/a00i/index.m3u8
+#EXTINF:0,19 ТНТ
+#EXTVLCOPT:network-caching=1000
+http://91.234.255.18:8000/play/a04y/index.m3u8
+#EXTINF:0,20 МУЗ
+#EXTVLCOPT:network-caching=1000
+http://91.234.255.18:8000/play/a04s/index.m3u8
+#EXTINF:0,21 2X2
+#EXTVLCOPT:network-caching=1000
+http://91.234.255.18:8000/play/a05n/index.m3u8
+#EXTINF:0,22 Детский
+#EXTVLCOPT:network-caching=1000
+http://91.234.255.18:8000/play/a00u/index.m3u8
+#EXTINF:0,23 Мульт
+#EXTVLCOPT:network-caching=1000
+http://91.234.255.18:8000/play/a05x/index.m3u8
+#EXTINF:0,24 Канал Disney
+#EXTVLCOPT:network-caching=1000
+http://91.234.255.18:8000/play/a04r/index.m3u8
+#EXTINF:0,25 Дом Кино
+#EXTVLCOPT:network-caching=1000
+http://91.234.255.18:8000/play/a05q/index.m3u8
+#EXTINF:0,26 ЕвроКино
+#EXTVLCOPT:network-caching=1000
+http://91.234.255.18:8000/play/a05k/index.m3u8
+#EXTINF:0,27 Мосфильм. Золотая Коллекция
+#EXTVLCOPT:network-caching=1000
+http://91.234.255.18:8000/play/a068/index.m3u8
+#EXTINF:0,28 Русский Иллюзион
+#EXTVLCOPT:network-caching=1000
+http://91.234.255.18:8000/play/a036/index.m3u8
+#EXTINF:0,29 КИНО ТВ
+#EXTVLCOPT:network-caching=1000
+http://91.234.255.18:8000/play/a00w/index.m3u8
+#EXTINF:0,30 Комедия
+#EXTVLCOPT:network-caching=1000
+http://91.234.255.18:8000/play/a00x/index.m3u8
+#EXTINF:0,31 Русский бестселлер
+#EXTVLCOPT:network-caching=1000
+http://91.234.255.18:8000/play/a062/index.m3u8
+#EXTINF:0,32 CTC Love
+#EXTVLCOPT:network-caching=1000
+http://91.234.255.18:8000/play/a05w/index.m3u8
+#EXTINF:0,33 Че
+#EXTVLCOPT:network-caching=1000
+http://91.234.255.18:8000/play/a00t/index.m3u8
+#EXTINF:0,35 Ю
+#EXTVLCOPT:network-caching=1000
+http://91.234.255.18:8000/play/a04z/index.m3u8
+#EXTINF:0,36 Время: далекое и близкое
+#EXTVLCOPT:network-caching=1000
+http://91.234.255.18:8000/play/a02y/index.m3u8
+#EXTINF:0,37 БОБЁР
+#EXTVLCOPT:network-caching=1000
+http://91.234.255.18:8000/play/a02x/index.m3u8
+#EXTINF:0,38 Усадьба-ТВ
+#EXTVLCOPT:network-caching=1000
+http://91.234.255.18:8000/play/a05f/index.m3u8
+#EXTINF:0,39 Доктор
+#EXTVLCOPT:network-caching=1000
+http://91.234.255.18:8000/play/a04p/index.m3u8
+#EXTINF:0,40 ЖИВИ!
+#EXTVLCOPT:network-caching=1000
+http://91.234.255.18:8000/play/a060/index.m3u8
+#EXTINF:0,41 BRIDGE TV Русский Хит
+#EXTVLCOPT:network-caching=1000
+http://91.234.255.18:8000/play/a05m/index.m3u8
+#EXTINF:0,42 Ля-минор ТВ
+#EXTVLCOPT:network-caching=1000
+http://91.234.255.18:8000/play/a05s/index.m3u8
+#EXTINF:0,43 Музыка Первого
+#EXTVLCOPT:network-caching=1000
+http://91.234.255.18:8000/play/a031/index.m3u8
+#EXTINF:0,44 THT MUSIC
+#EXTVLCOPT:network-caching=1000
+http://91.234.255.18:8000/play/a052/index.m3u8
+#EXTINF:0,45 World Fashion
+#EXTVLCOPT:network-caching=1000
+http://91.234.255.18:8000/play/a051/index.m3u8
+#EXTINF:0,46 Москва Доверие
+#EXTVLCOPT:network-caching=1000
+http://91.234.255.18:8000/play/a05z/index.m3u8
+#EXTINF:0,47 Телеканал 360
+#EXTVLCOPT:network-caching=1000
+http://91.234.255.18:8000/play/a04v/index.m3u8
+#EXTINF:0,48 ДОМАШНИЕ ЖИВОТНЫЕ
+#EXTVLCOPT:network-caching=1000
+http://91.234.255.18:8000/play/a05e/index.m3u8
+#EXTINF:0,50 Discovery Channel
+#EXTVLCOPT:network-caching=1000
+http://91.234.255.18:8000/play/a02u/index.m3u8
+#EXTINF:0,51 Охота и рыбалка
+#EXTVLCOPT:network-caching=1000
+http://91.234.255.18:8000/play/a05j/index.m3u8
+#EXTINF:0,52 Дикий
+#EXTVLCOPT:network-caching=1000
+http://91.234.255.18:8000/play/a05t/index.m3u8
+#EXTINF:0,54 МАТЧ ПРЕМЬЕР
+#EXTVLCOPT:network-caching=1000
+http://91.234.255.18:8000/play/a04t/index.m3u8
+#EXTINF:0,55 МАТЧ! БОЕЦ
+#EXTVLCOPT:network-caching=1000
+http://91.234.255.18:8000/play/a05p/index.m3u8
+#EXTINF:0,56 Телеканал КХЛ
+#EXTVLCOPT:network-caching=1000
+http://91.234.255.18:8000/play/a04x/index.m3u8
+#EXTINF:0,57 РБК-ТВ
+#EXTVLCOPT:network-caching=1000
+http://91.234.255.18:8000/play/a04w/index.m3u8
+#EXTINF:0,59 В гостях у сказки
+#EXTVLCOPT:network-caching=1000
+http://91.234.255.18:8000/play/a065/index.m3u8
+#EXTINF:0,60 Русский роман
+#EXTVLCOPT:network-caching=1000
+http://91.234.255.18:8000/play/a064/index.m3u8
+#EXTINF:0,TB 1000 Русское кино
+#EXTVLCOPT:network-caching=1000
+http://91.234.255.18:8000/play/a05d/index.m3u8
+#EXTINF:0,TV 1000
+#EXTVLCOPT:network-caching=1000
+http://91.234.255.18:8000/play/a05b/index.m3u8
+#EXTINF:0,TV 1000 Action
+#EXTVLCOPT:network-caching=1000
+http://91.234.255.18:8000/play/a05c/index.m3u8
+#EXTINF:0,БОКС ТВ
+#EXTVLCOPT:network-caching=1000
+http://91.234.255.18:8000/play/a063/index.m3u8
+#EXTINF:0,Диалоги о рыбалке
+#EXTVLCOPT:network-caching=1000
+http://91.234.255.18:8000/play/a066/index.m3u8
+#EXTINF:0,Русский детектив
+#EXTVLCOPT:network-caching=1000
+http://91.234.255.18:8000/play/a05y/index.m3u8
+#EXTINF:0,Сарафан
+#EXTVLCOPT:network-caching=1000
+http://91.234.255.18:8000/play/a061/index.m3u8
+#EXTINF:0,Суббота!
+#EXTVLCOPT:network-caching=1000
+http://91.234.255.18:8000/play/a050/index.m3u8
